@@ -1,0 +1,47 @@
+﻿<?hda version="11gR1-11.1.1.6.0-idcprod1-111219T111403" jcharset="UTF8" encoding="utf-8"?>
+@Properties LocalData
+ComponentName=Charu-Jenkins-Test
+blDateFormat=M/d{/yy}{ h:mm[:ss]{ a}}!mAM,PM!tEtc/UTC
+hasPreferenceData=0
+preventAdditionalComponentDowngrade=0
+version=2019_09_08-dev(build 1)
+@end
+@ResultSet ClassAliases
+3
+classname
+location
+loadOrder
+@end
+@ResultSet Filters
+4
+type
+location
+parameter
+loadOrder
+@end
+@ResultSet ResourceDefinition
+4
+type
+filename
+tables
+loadOrder
+resource
+resources/charu-jenkins-test_resource.htm
+null
+10
+template
+templates/charu-jenkins-test_template.hda
+null
+10
+@end
+@ResultSet MergeRules
+4
+fromTable
+toTable
+column
+loadOrder
+Charu-Jenkins-Test_Templates
+IntradocTemplates
+name
+10
+@end
