@@ -1,0 +1,14 @@
+﻿<?hda version="12.2.1.2.0-2018-03-16 02:48:06Z-r160414" jcharset="UTF8" encoding="utf-8"?>
+@Properties LocalData
+ComponentName=JenkinsGITComponent-Test
+blDateFormat=M/d/yy {h:mm:ss {aa}[zzz]}!mAM,PM!tUTC
+@end
+@ResultSet Manifest
+2
+entryType
+location
+component
+JenkinsGITComponent-Test/JenkinsGITComponent-Test.hda
+componentExtra
+JenkinsGITComponent-Test/readme.txt
+@end
